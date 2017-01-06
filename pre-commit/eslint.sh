@@ -26,7 +26,7 @@
 # SOFTWARE.
 
 # Configuration
-ESLINTRC="/Users/stefan/development/source/dotfiles/.eslintrc"
+ESLINTRC="" # Insert full path to your config file, e.g. /my/path/to/.eslintrc
 TAG="[git-hook][eslint]"
 FAIL=FALSE
 
